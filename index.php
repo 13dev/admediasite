@@ -41,11 +41,6 @@ $activeNavbar = 'inicio';
 			<!-- Banner -->
 				<section id="banner">
 					<div class="inner" style="margin-top: 20%; ">
-
-						<!--header>
-							<h2>ADMEDIA</h2>
-						</header>
-						<p>DESENVOLVEMOS <strong>IDEIAS 360º</strong-->
 						<footer>
 							<ul class="buttons vertical">
 								<li><a href="#main" class="button-admedia fit scrolly">MAIS &nbsp;<i class="fa fa-chevron-down" aria-hidden="true"></i></a></li>
@@ -144,7 +139,7 @@ $activeNavbar = 'inicio';
 
 					<header>
 						<h2>FICOU COM DÚVIDAS?</h2>
-						<p>Não hesite em contactar-nos. Responderemos o mais breve possível.</p>
+						<p style="text-align:center;">Não hesite em contactar-nos. Responderemos o mais breve possível.</p>
 					</header>
 					<footer>
 						<ul class="buttons">
